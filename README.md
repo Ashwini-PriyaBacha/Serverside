@@ -95,8 +95,8 @@ urlpatterns = [
 <meta charset='utf-8'>
 <meta http-equiv='X-UA-Compatible' content='IE=edge'>
 <title>SURFACE AREA OF RIGHT CYLINDER</title>
-<h2 align="center">RIYA P L</h2>
-<h3 align="center">212223240141</h3>
+<h2 align="center">Ashwini priya</h2>
+<h3 align="center">212224040035</h3>
 <meta name='viewport' content='width=device-width, initial-scale=1'>
 <style type="text/css">
 body {
@@ -159,7 +159,8 @@ h1 {
 ![alt text](<Screenshot 2025-04-23 203944.png>)
 
 ## HOMEPAGE:
-![alt text](<Screenshot 2025-04-23 162800.png>)
+![Screenshot 2025-04-24 204258](https://github.com/user-attachments/assets/b86f36ee-9c5c-41e5-87f1-4c3e45c9c155)
+
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
